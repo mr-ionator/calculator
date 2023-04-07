@@ -1,0 +1,41 @@
+/* .upperbody{ */
+    /* background-color: blue; */
+    /* width: 500px; */
+    /* height: 500px; */
+/* } */
+
+.incalculator{
+    padding: 15px;
+    width: 450px;
+    height: 450px;
+    background-color: lightblue;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    border: 5px solid blue;
+}
+
+.keypad{
+    width: 450px;
+    height: 300px;
+    background-color: grey;
+    align-self:baseline;
+    margin-top: 10px;
+    /* border: 2px solid lightgrey; */
+}
+
+.calcscreen{
+    width:450px;
+    height: 150px;
+    background-color: white;
+}
+
+.keypad > button{
+    margin-top: 4px;
+    height: 70px;
+    width: 108px;
+    border: 2px solid;
+    
+}
